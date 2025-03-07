@@ -1,0 +1,20 @@
+body {
+    background-color: beige;
+    text-align: center;
+    padding: 1in;
+    font-size: x-large;
+}
+
+button {
+    background-color: rgb(70, 58, 58);
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: medium;
+    margin: 0.1cm;
+
+}
+
+button:hover {
+    background-color: aliceblue;
+    color:  rgb(70, 58, 58); 
+}
